@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StoneyleeK
+- 👋 Hi, I’m @StoneyLi
 - 👀 I’m interested in coding, drone and video games
 - 🌱 I’m currently learning coding(C++)
 - 💞️ I’m looking to collaborate on nothing
